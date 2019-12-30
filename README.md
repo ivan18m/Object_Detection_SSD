@@ -1,5 +1,7 @@
 # SingleShot multibox Detector
 
+Convolutional Neural Network for object detection
+
 ### Installation
 ```
 pip install --user tensorflow
