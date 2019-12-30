@@ -2,6 +2,10 @@
 
 Convolutional Neural Network for object detection
 
+* Python
+* TensorFlow
+* OpenCV
+
 ### Installation
 ```
 pip install --user tensorflow
