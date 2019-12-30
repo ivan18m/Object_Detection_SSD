@@ -1,0 +1,6 @@
+# Directories
+.vs/
+.ssdlite_mobilenet_v2_coco_2018_05_09/
+
+# Files
+ssdlite_mobilenet_v2_coco_2018_05_09.tar.gz
